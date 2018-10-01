@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jsmitty12/phpwhois": "^5.0"
+    }
+}
