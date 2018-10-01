@@ -5,7 +5,8 @@ Free Bulk Moz DA and PA Checker
 #### 2. Masukkan ke htdocs XAMPP atau Server :/
 #### 3. Ganti Moz Key
 #### 4. Coba Dungs 
-### Kalau ada Bug Hubungi fb.me/apikachuz 
+### Kalau ada Bug Hubungi 
+fb.me/apikachuz 
 ## Thanks to JSMitty12 untuk phpWhois
 https://github.com/jsmitty12/phpWhois
 
